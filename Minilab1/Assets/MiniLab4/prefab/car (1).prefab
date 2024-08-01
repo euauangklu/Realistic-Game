@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -7138092269131073482, guid: e5e8fb590c9a3924c90eeb2485e3894d, type: 3}
+  - {fileID: 2100000, guid: cb9d3bb8f7fbc564f83e8df167f57ee9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -144,7 +144,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -7138092269131073482, guid: e5e8fb590c9a3924c90eeb2485e3894d, type: 3}
+  - {fileID: 2100000, guid: cb9d3bb8f7fbc564f83e8df167f57ee9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -227,7 +227,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -7138092269131073482, guid: e5e8fb590c9a3924c90eeb2485e3894d, type: 3}
+  - {fileID: 2100000, guid: cb9d3bb8f7fbc564f83e8df167f57ee9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -335,8 +335,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wheelModel: {fileID: 6565826292077140082}
   WheelCollider: {fileID: 0}
-  steerable: 0
-  motorized: 0
+  steerable: 1
+  motorized: 1
 --- !u!1 &3377101957296257744
 GameObject:
   m_ObjectHideFlags: 0
@@ -398,7 +398,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -7138092269131073482, guid: e5e8fb590c9a3924c90eeb2485e3894d, type: 3}
+  - {fileID: 2100000, guid: cb9d3bb8f7fbc564f83e8df167f57ee9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -541,8 +541,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wheelModel: {fileID: 3213562896254055454}
   WheelCollider: {fileID: 0}
-  steerable: 0
-  motorized: 0
+  steerable: 1
+  motorized: 1
 --- !u!1 &5505008015118400940
 GameObject:
   m_ObjectHideFlags: 0
@@ -630,7 +630,7 @@ MonoBehaviour:
   wheelModel: {fileID: 8341265587305195678}
   WheelCollider: {fileID: 0}
   steerable: 0
-  motorized: 0
+  motorized: 1
 --- !u!1 &6052885580561533019
 GameObject:
   m_ObjectHideFlags: 0
@@ -693,7 +693,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -8095577608682885169, guid: e5e8fb590c9a3924c90eeb2485e3894d, type: 3}
+  - {fileID: 2100000, guid: 9b45ed3320cfd46468f5114b3ab6dfb5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -823,8 +823,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wheelModel: {fileID: 9059294285246183132}
   WheelCollider: {fileID: 0}
-  steerable: 0
-  motorized: 0
+  steerable: 1
+  motorized: 1
 --- !u!1 &7088777973619586235
 GameObject:
   m_ObjectHideFlags: 0

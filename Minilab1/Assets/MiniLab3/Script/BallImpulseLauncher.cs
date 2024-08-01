@@ -18,7 +18,7 @@ public class BallImpulseLauncher : MonoBehaviour
 
     private void LaunchBall()
     {
-        GameObject go = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+        GameObject go = GameObject.CreatePrimitive(PrimitiveType.Cube);
         go.transform.position = this.transform.position;
         Rigidbody rb = go.AddComponent<Rigidbody>();
         rb.mass = m_Mass;
