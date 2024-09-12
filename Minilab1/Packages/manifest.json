@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.keattikorn.physicsingame": "https://gitlab.com/keattikorn_public/physics-in-game.git#FixedJointSamples1.0",
+    "com.keattikorn.physicsingame": "https://gitlab.com/keattikorn_public/physics-in-game.git#HingeJointEP1Samples1.0",
     "com.unity.cinemachine": "2.10.1",
     "com.unity.collab-proxy": "2.4.3",
     "com.unity.feature.development": "1.0.1",

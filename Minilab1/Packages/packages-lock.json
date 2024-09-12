@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.keattikorn.physicsingame": {
-      "version": "https://gitlab.com/keattikorn_public/physics-in-game.git#FixedJointSamples1.0",
+      "version": "https://gitlab.com/keattikorn_public/physics-in-game.git#HingeJointEP1Samples1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "730632904debf1f51b5cd4d57acc055aa4a6cbaf"
+      "hash": "0a53ad0ff4547cdf5ded6ab52a69a78364570f5c"
     },
     "com.unity.cinemachine": {
       "version": "2.10.1",
