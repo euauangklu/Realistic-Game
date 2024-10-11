@@ -23,7 +23,7 @@ public class SimpleForceController : MonoBehaviour
  {
      Keyboard keyboard=Keyboard.current;
     
-     if(keyboard[Key.Q].isPressed)
+     if(keyboard[Key.Space].isPressed)
          {
          m_Rigidbody.AddForce(Vector3.up*m_UpLiftForceMagnitude);
          }else if (keyboard[Key.E].isPressed)
